@@ -22,6 +22,8 @@ Does the RT5000 have the capability to store leftovers, and if so, how does it h
 5. Will the robot need supervision?
 6. How many hours should the robot be functioning in a day?
 7. How will the robot check for QA?
-8. Will the robot 
+8. How will the robot recognize when the soup is fully cooked?
+9. Will the robot make batches or items to order?
+10. If batching, how will the robot know to make more?
 
 ## Tuna Fish Sandwich (Miri)
