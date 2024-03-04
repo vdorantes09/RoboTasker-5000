@@ -3,4 +3,4 @@
 
 ## Chefs Salad (Jaine)
 
-## Chili and Rice (Vcitor)
+## Chili and Rice (Victor)
