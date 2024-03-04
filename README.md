@@ -1,4 +1,5 @@
 # Robot-App
+
 ## Chicken Soup (TY)
 How will the RT5000 identify and select the necessary ingredients for chicken soup from the kitchen storage?
 What specific steps should the RT5000 follow to prepare the chicken soup, including handling raw chicken?
@@ -11,7 +12,7 @@ How does the RT5000 ensure cleanliness and safety, especially when handling raw 
 What procedures does the RT5000 follow if an ingredient is missing or if there's an issue during the cooking process?
 Does the RT5000 have the capability to store leftovers, and if so, how does it handle this task?
 
-## Chefs Salad (Jaine)
+## Chefs Salad (Janie)
 
 ## Chili and Rice (Victor)
 
