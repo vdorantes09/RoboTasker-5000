@@ -1,7 +1,7 @@
 # Robot-App
-## Chicken Soup (TY)
+## Chicken Soup (Ty)
 
-## Chefs Salad (Jaine)
+## Chefs Salad (Janie)
 
 ## Chili and Rice (Victor)
 1. How will the robot gather ingredients?
