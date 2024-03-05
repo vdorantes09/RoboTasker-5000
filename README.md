@@ -6,6 +6,6 @@
     
 ## [Chili and Rice (Victor)](/Victor.md)
 
-## [Tuna Fish Sandwich (Miri)](Miri.md)
+## [Tuna Fish Sandwich (Miri)](/Miri.md)
 
 ## [Priority Requirements](/10PriorityRequirements.md)
