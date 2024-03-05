@@ -10,3 +10,5 @@
 8. How will the robot recognize when the soup is fully cooked?
 9. Will the robot make batches or items to order?
 10. If batching, how will the robot know to make more?
+
+![Victor](Victor'sQs.PNG)
