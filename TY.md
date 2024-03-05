@@ -9,3 +9,5 @@
 8. How does the RT5000 ensure cleanliness and safety, especially when handling raw chicken and hot liquids?
 9. What procedures does the RT5000 follow if an ingredient is missing or if there's an issue during the cooking process?
 10. Does the RT5000 have the capability to store leftovers, and if so, how does it handle this task?
+
+![TY](TysQs.PNG)
