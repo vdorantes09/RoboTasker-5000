@@ -6,4 +6,4 @@
     
 ## [Chili and Rice (Victor)](/Victor.md)
 
-## Tuna Fish Sandwich (Miri)
+## [Tuna Fish Sandwich (Miri)](Miri.md)
