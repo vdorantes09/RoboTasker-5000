@@ -11,3 +11,5 @@
 10. How will robot accommodate to dressing level preference?
     
 ![Janie](Janie'sQs.PNG)
+
+![Janies wireframe](Chefsaladwire.PNG)
