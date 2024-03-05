@@ -12,3 +12,4 @@
 10. If batching, how will the robot know to make more?
 
 ![Victor](Victor'sQs.PNG)
+![Victor Wireframe](ChiliandRIce.PNG)
