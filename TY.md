@@ -11,3 +11,6 @@
 10. Does the RT5000 have the capability to store leftovers, and if so, how does it handle this task?
 
 ![TY](TysQs.PNG)
+
+
+![chicken wireframe](Chickensoupwireframe.jpg)
