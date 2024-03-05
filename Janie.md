@@ -10,3 +10,4 @@
 9.  How will robot know when to accept an 86 request?
 10. How will robot accommodate to dressing level preference?
     
+![Janie](Janie'sQs.PNG)
