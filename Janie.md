@@ -13,3 +13,6 @@
 ![Janie](Janie'sQs.PNG)
 
 ![Janies wireframe](Chefsaladwire.PNG)
+
+
+[Previous](/TY.md)[Main page](/README.md) [Next](/Janie.md)
