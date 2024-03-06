@@ -13,4 +13,4 @@
 
 ![Victor](Victor'sQs.PNG)
 
-![Victor Wireframe](ChiliandRIce.PNG)
+![Victor Wireframe](Chili&Rice.PNG)
