@@ -38,3 +38,5 @@ why- people with dietary needs find tghis feature very useful for tracking or me
 ## RT50000 will know how to do side dish recommendation
 
 why-RT5000 will be able to be versatile and offer other side dishes to enjoy your main entree, keeps things fluid and user interested in the options offered.
+
+[Previous](/Miri.md)     [Main page](/README.md)
