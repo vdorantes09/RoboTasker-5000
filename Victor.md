@@ -16,4 +16,4 @@
 ![Victor Wireframe](Chili&Rice.PNG)
 
 
-[Previous](/Janie.md)[Main page](/README.md) [Next](/Miri.md)
+[Previous](/Janie.md)      [Main page](/README.md)     [Next](/Miri.md)
