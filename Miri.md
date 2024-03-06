@@ -16,4 +16,4 @@
 
 
 
-[Previous](/Victor.md)[Main page](/README.md)
+[Previous](/Victor.md)     [Main page](/README.md)
