@@ -17,4 +17,4 @@
 
 
 
-                      [Main page](/README.md)                    [Next](/Janie.md)
+[Main page](/README.md)                    [Next](/Janie.md)
