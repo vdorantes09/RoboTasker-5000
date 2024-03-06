@@ -10,3 +10,12 @@ We believe this is next on the priority list because it's important to make sure
 3. Robot will be fully autonomous
 
 The customer needs to be able to allow the robot to cook on their own without having to be checked on
+
+
+
+
+
+RT50000 will be able to do post cleanup keeping kitchen hygeine under control reducing user workload if needed
+RT50000 will be able to show nutrional values and information about the recipe
+RT50000 will know how to do side dish recommendation
+RT50000 will know how to do portion control
