@@ -23,7 +23,7 @@ We think its important to save user from foodborne illnesses.
      
 We think its important to have a set time frame to plan robot usage according to plans.
 
-##Robot will know dressing amount preference.
+## Robot will know dressing amount preference.
 
 The customer can adjust serving amounts based on daily preference to robot.
 
