@@ -11,9 +11,17 @@ We believe this is next on the priority list because it's important to make sure
 
 The customer needs to be able to allow the robot to cook on their own without having to be checked on
 
+4. Robot will know dressing amount preference.
 
+   The customer can adjust serving amounts based on daily preference to robot.
 
+   5. How can i be sure robot will be able to distinguish cooked vs uncooked.
 
+      We think its important to save user from foodborne illnesses.
+
+      6. Robot can prepare recipes for up to 4hours at a time.
+     
+      We think its important to have a set time frame to plan robot usage according to plans.
 
 RT50000 will know how to do portion control
 why- Everyone is differen shape and size we all ahve different desires when it comes to portions, dietrary and or how youre needs are.
