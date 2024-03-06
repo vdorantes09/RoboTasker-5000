@@ -14,3 +14,7 @@
 
 
 ![chicken wireframe](Chickensoupwireframe.jpg)
+
+
+
+                      [Main page](/README.md)                    [Next](/Janie.md)
