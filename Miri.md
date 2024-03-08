@@ -68,7 +68,7 @@ Non-Functional Requirement: The RT5000 should encourage culinary innovation and 
 
 
 
-
+![Miri's wireframe](Tuna.png)
 
 
 
